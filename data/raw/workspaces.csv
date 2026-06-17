@@ -1,0 +1,1001 @@
+workspace_id,workspace_name,industry,company_size,seat_count,plan_tier,created_at
+1,"Rodriguez, Figueroa and Sanchez",Finance,1-10,194,Growth,2023-06-22
+2,"Garcia, Yang and Gardner",Retail,11-50,62,Enterprise,2024-03-03
+3,Johnson-Davis,Finance,1-10,178,Business,2023-08-05
+4,"Guzman, Hoffman and Baldwin",Manufacturing,1-10,156,Growth,2025-04-27
+5,"Barnes, Cole and Ramirez",Technology,1-10,12,Starter,2024-10-17
+6,Wolfe LLC,Healthcare,11-50,64,Starter,2023-05-26
+7,Lewis LLC,Technology,1-10,148,Starter,2025-02-24
+8,James LLC,Healthcare,201-1000,61,Business,2023-11-05
+9,"Baker, Williams and Stevens",Technology,51-200,212,Growth,2024-11-28
+10,Miller-Carter,Manufacturing,11-50,183,Business,2023-01-11
+11,"Mcclure, Ward and Lee",Technology,51-200,76,Starter,2024-10-18
+12,Stanley LLC,Technology,11-50,250,Enterprise,2023-08-30
+13,Delacruz Group,Healthcare,1-10,28,Business,2024-06-06
+14,Reid-Diaz,Healthcare,1-10,96,Starter,2024-08-13
+15,Clark-Adams,Manufacturing,51-200,211,Starter,2024-06-18
+16,"Jones, Reid and Ferguson",Finance,201-1000,142,Starter,2023-03-09
+17,Ford LLC,Manufacturing,201-1000,25,Starter,2023-07-13
+18,"Hawkins, Cohen and Cameron",Technology,51-200,217,Growth,2025-05-07
+19,Underwood LLC,Education,11-50,185,Growth,2024-07-15
+20,Jones-Gentry,Retail,1-10,174,Starter,2023-04-19
+21,"Edwards, Rios and Foster",Manufacturing,51-200,25,Growth,2023-12-21
+22,Thomas-Taylor,Manufacturing,1-10,102,Starter,2023-12-28
+23,"Ryan, Burgess and Patterson",Retail,201-1000,167,Starter,2024-03-07
+24,Cox-Osborn,Finance,11-50,99,Growth,2024-07-20
+25,"Snyder, Campos and Callahan",Finance,11-50,176,Growth,2024-07-05
+26,"Moore, Becker and Carlson",Education,1-10,160,Business,2024-02-19
+27,Carlson-Mcdonald,Healthcare,11-50,46,Starter,2023-09-23
+28,"Valencia, Smith and Le",Manufacturing,201-1000,74,Growth,2024-12-19
+29,"Potter, Mack and Peterson",Healthcare,11-50,180,Growth,2025-05-15
+30,Moore-Smith,Manufacturing,1-10,63,Starter,2024-05-18
+31,"Baker, Mason and White",Technology,51-200,107,Growth,2023-02-19
+32,"Evans, Fowler and Lynch",Finance,1-10,59,Starter,2024-02-20
+33,Farmer-Ryan,Retail,51-200,59,Starter,2025-05-31
+34,George Group,Technology,201-1000,231,Enterprise,2025-02-14
+35,Hickman LLC,Finance,11-50,72,Enterprise,2024-12-13
+36,Allen PLC,Technology,11-50,195,Business,2023-08-05
+37,Dennis Inc,Retail,51-200,196,Starter,2025-05-22
+38,Anderson Group,Retail,201-1000,234,Starter,2025-06-27
+39,Baker PLC,Education,201-1000,97,Growth,2025-06-25
+40,Hickman Ltd,Manufacturing,11-50,135,Growth,2023-12-07
+41,Marquez Group,Manufacturing,1-10,198,Starter,2025-02-05
+42,"Brooks, Lam and Hayes",Finance,1-10,44,Growth,2023-03-15
+43,Brown Inc,Retail,201-1000,157,Starter,2023-09-06
+44,"Hall, Robinson and Jones",Manufacturing,201-1000,102,Enterprise,2023-04-09
+45,Perez Inc,Healthcare,51-200,146,Starter,2024-12-28
+46,Palmer LLC,Manufacturing,1-10,179,Growth,2023-01-18
+47,Lewis-Anderson,Retail,51-200,201,Starter,2025-04-14
+48,"Kennedy, Mueller and Aguirre",Finance,1-10,80,Growth,2024-06-12
+49,Davis Group,Healthcare,11-50,121,Growth,2024-11-06
+50,Jenkins-Shields,Technology,51-200,133,Starter,2023-01-06
+51,"Valdez, Lucas and Brown",Manufacturing,1-10,227,Enterprise,2023-10-05
+52,Mcbride-Rodriguez,Finance,11-50,44,Business,2024-04-08
+53,Herrera and Sons,Education,11-50,143,Enterprise,2024-08-03
+54,Ramirez and Sons,Technology,1-10,158,Business,2025-04-03
+55,Morton-Chase,Technology,201-1000,9,Growth,2024-05-18
+56,Pearson PLC,Technology,51-200,229,Enterprise,2023-06-23
+57,House and Sons,Finance,11-50,19,Starter,2024-04-22
+58,Tucker-Lewis,Education,1-10,26,Starter,2024-01-10
+59,Martin Inc,Education,1-10,199,Starter,2025-01-24
+60,House-Glover,Healthcare,11-50,37,Starter,2025-04-07
+61,Horton-Cross,Retail,11-50,72,Growth,2025-01-08
+62,"Higgins, Moore and Phillips",Technology,201-1000,59,Starter,2025-03-30
+63,"Fitzgerald, Brown and Edwards",Technology,11-50,187,Business,2025-04-17
+64,"Woods, Calhoun and Schmidt",Technology,201-1000,176,Growth,2024-04-29
+65,"Miller, Lopez and Larson",Manufacturing,201-1000,235,Starter,2024-08-03
+66,Powell PLC,Finance,201-1000,35,Growth,2025-03-15
+67,"Wheeler, Harvey and Barnes",Retail,11-50,21,Starter,2024-01-21
+68,"Mills, Donovan and Harris",Manufacturing,1-10,155,Business,2024-06-09
+69,Allen-Foster,Manufacturing,11-50,155,Starter,2025-05-10
+70,"Evans, Stewart and Walton",Technology,1-10,23,Enterprise,2023-12-09
+71,Ellis PLC,Technology,11-50,22,Business,2023-04-02
+72,Medina PLC,Healthcare,51-200,23,Starter,2023-02-18
+73,Mahoney Inc,Finance,11-50,76,Starter,2025-03-09
+74,Mitchell-Kim,Retail,11-50,143,Business,2025-01-24
+75,"Turner, Riggs and Roman",Retail,201-1000,67,Business,2023-07-25
+76,Contreras PLC,Healthcare,201-1000,53,Business,2025-01-04
+77,"Garcia, Humphrey and Baker",Technology,1-10,173,Business,2023-05-27
+78,"Tran, Nelson and Jacobs",Manufacturing,51-200,113,Starter,2024-10-31
+79,Harris-Walters,Healthcare,201-1000,226,Growth,2024-09-30
+80,"Freeman, Whitehead and Mathis",Technology,1-10,20,Starter,2023-03-26
+81,"Henderson, Hill and Smith",Finance,51-200,209,Business,2024-09-17
+82,"Whitney, Martin and Ramos",Manufacturing,11-50,54,Growth,2023-06-19
+83,Hoffman-Rodriguez,Manufacturing,201-1000,40,Starter,2023-10-23
+84,Gardner LLC,Retail,11-50,76,Starter,2024-10-17
+85,"Hernandez, Anderson and Parker",Technology,11-50,228,Starter,2024-12-19
+86,Clark-Wright,Technology,201-1000,211,Starter,2023-04-28
+87,Deleon-Henson,Education,1-10,17,Business,2025-05-04
+88,"Brady, Frost and Young",Finance,1-10,28,Growth,2025-04-19
+89,Keith Inc,Finance,11-50,109,Business,2024-01-03
+90,"Middleton, Patton and Jenkins",Manufacturing,201-1000,59,Growth,2025-01-24
+91,"Cochran, Adams and Cobb",Technology,1-10,47,Starter,2024-09-14
+92,Brennan-Garrison,Finance,1-10,104,Business,2024-08-11
+93,Velasquez Group,Healthcare,201-1000,78,Business,2024-02-16
+94,Hoover-Savage,Finance,201-1000,44,Growth,2024-10-19
+95,Keller Group,Healthcare,51-200,60,Business,2023-10-22
+96,Lin-Rasmussen,Healthcare,1-10,196,Growth,2023-04-01
+97,May-Ross,Retail,1-10,17,Growth,2024-05-02
+98,Crosby-Wilson,Healthcare,201-1000,133,Growth,2025-06-26
+99,Carpenter LLC,Technology,11-50,19,Starter,2025-04-05
+100,Carlson LLC,Manufacturing,1-10,222,Starter,2025-02-27
+101,Graham-Joyce,Technology,1-10,157,Starter,2023-10-16
+102,Lam-Lee,Technology,11-50,108,Growth,2023-04-16
+103,"Graham, Meyer and Drake",Manufacturing,11-50,153,Starter,2023-07-06
+104,"Bentley, Mclaughlin and Gonzalez",Education,1-10,112,Growth,2023-03-03
+105,Rush LLC,Retail,51-200,244,Enterprise,2025-06-25
+106,Alvarado-Martinez,Healthcare,11-50,176,Starter,2024-02-10
+107,"Parker, Ortiz and Powell",Healthcare,11-50,72,Growth,2024-05-03
+108,"Martinez, Fisher and Bentley",Manufacturing,11-50,176,Business,2024-09-06
+109,"Orr, Gilbert and Turner",Retail,201-1000,85,Starter,2024-04-11
+110,Torres and Sons,Education,1-10,122,Starter,2023-04-23
+111,"Lawson, Morris and Ramos",Manufacturing,1-10,23,Starter,2025-05-24
+112,Dixon Ltd,Finance,11-50,134,Starter,2025-04-15
+113,"Miller, Robertson and Schultz",Healthcare,11-50,243,Enterprise,2024-02-16
+114,Cardenas and Sons,Manufacturing,1-10,230,Business,2024-06-26
+115,Walker-Gonzalez,Technology,51-200,77,Growth,2024-01-15
+116,Sanchez Group,Retail,201-1000,218,Business,2023-09-03
+117,Gibson Ltd,Retail,51-200,161,Business,2025-04-23
+118,Higgins Group,Education,1-10,175,Starter,2025-04-01
+119,Sanchez-Douglas,Technology,51-200,243,Business,2025-05-11
+120,Osborne and Sons,Finance,11-50,72,Growth,2023-06-10
+121,"Holmes, Williams and Wright",Technology,1-10,195,Business,2023-06-29
+122,Anderson-Marshall,Retail,11-50,74,Business,2025-05-09
+123,"Larson, Dodson and Vance",Retail,11-50,188,Starter,2024-03-13
+124,"Mcclain, Simmons and Meadows",Education,11-50,180,Starter,2024-06-16
+125,Manning Group,Education,201-1000,69,Starter,2024-02-15
+126,Walton-Larsen,Healthcare,1-10,167,Growth,2023-03-20
+127,"Washington, Allen and Gonzales",Manufacturing,51-200,16,Business,2024-10-20
+128,Young-Rogers,Retail,51-200,202,Business,2023-01-06
+129,Taylor and Sons,Education,51-200,46,Starter,2023-07-23
+130,"Hernandez, Lewis and Perry",Healthcare,201-1000,148,Growth,2024-11-17
+131,"Owens, Brown and Wall",Education,1-10,24,Growth,2023-01-16
+132,"Shah, Smith and Gilmore",Retail,1-10,218,Starter,2023-08-20
+133,Woods-Bender,Healthcare,11-50,115,Starter,2024-07-27
+134,Castaneda-Ashley,Education,1-10,83,Starter,2023-07-17
+135,"Adkins, Payne and Morrison",Finance,1-10,235,Enterprise,2024-07-20
+136,Robinson-Graham,Technology,11-50,179,Starter,2024-07-09
+137,Rogers-Shelton,Education,1-10,95,Growth,2024-01-23
+138,"Martin, Mcdonald and Anderson",Retail,201-1000,163,Business,2025-05-19
+139,"Johnson, Long and Elliott",Technology,11-50,226,Growth,2023-08-29
+140,Day and Sons,Education,11-50,230,Enterprise,2023-09-10
+141,Williams Group,Healthcare,1-10,50,Enterprise,2024-10-02
+142,Gibson LLC,Education,201-1000,210,Starter,2024-05-31
+143,Walton-Decker,Healthcare,51-200,45,Growth,2024-01-21
+144,Ruiz Ltd,Retail,201-1000,228,Starter,2023-06-17
+145,Cooke LLC,Finance,201-1000,61,Starter,2023-03-02
+146,"Jones, Bernard and Williams",Technology,201-1000,94,Starter,2023-11-07
+147,Gonzalez Inc,Retail,11-50,62,Growth,2024-04-19
+148,Allen Group,Manufacturing,11-50,107,Growth,2023-02-06
+149,Elliott and Sons,Education,51-200,226,Starter,2024-05-24
+150,"Scott, Wood and Obrien",Manufacturing,51-200,94,Starter,2023-04-18
+151,"Wilson, Weiss and Oconnell",Technology,201-1000,178,Enterprise,2025-03-02
+152,"Johnson, Collins and Byrd",Education,51-200,245,Starter,2025-04-12
+153,David-Gonzalez,Retail,1-10,229,Starter,2023-02-12
+154,"Rivas, Sanchez and Terry",Healthcare,11-50,153,Growth,2024-02-10
+155,"Burke, Martinez and Riggs",Technology,1-10,32,Enterprise,2024-02-17
+156,Patel-Stanley,Technology,51-200,191,Starter,2024-11-06
+157,"Holland, Smith and Fisher",Education,201-1000,160,Growth,2024-05-02
+158,Hamilton LLC,Manufacturing,1-10,103,Business,2025-03-05
+159,Zimmerman-Graham,Manufacturing,11-50,70,Starter,2025-06-14
+160,"Sheppard, Nelson and Morton",Retail,201-1000,5,Business,2023-03-10
+161,Marshall-Petersen,Retail,11-50,98,Growth,2025-03-18
+162,Morris-Sanchez,Technology,1-10,247,Growth,2024-10-31
+163,Keith-Sanchez,Education,51-200,174,Growth,2024-05-27
+164,"Bishop, Gray and Johnson",Healthcare,51-200,134,Growth,2023-07-13
+165,Freeman LLC,Healthcare,201-1000,88,Starter,2024-04-25
+166,Ramirez-Carlson,Healthcare,51-200,146,Business,2024-09-17
+167,"Smith, Vaughan and Miller",Manufacturing,11-50,112,Starter,2023-07-17
+168,Freeman-Chang,Manufacturing,11-50,162,Starter,2024-08-11
+169,Brewer-Henry,Technology,51-200,108,Starter,2025-06-03
+170,Phillips Group,Manufacturing,1-10,82,Growth,2025-05-01
+171,Torres PLC,Healthcare,11-50,115,Growth,2024-03-21
+172,Tran-Cooper,Manufacturing,51-200,124,Starter,2025-06-19
+173,"Rivera, Warner and Nelson",Healthcare,201-1000,177,Growth,2024-11-17
+174,Martinez and Sons,Healthcare,201-1000,208,Starter,2023-11-28
+175,Newton Ltd,Finance,1-10,77,Growth,2023-09-21
+176,Robinson Group,Healthcare,51-200,28,Starter,2025-03-11
+177,"Lawrence, Wolf and Carlson",Technology,51-200,62,Growth,2023-12-31
+178,Phillips LLC,Finance,11-50,11,Growth,2023-11-06
+179,Smith-Ferguson,Healthcare,11-50,126,Enterprise,2023-03-13
+180,Mccann PLC,Healthcare,201-1000,111,Starter,2023-04-24
+181,"Raymond, Little and Mullins",Technology,11-50,188,Starter,2025-06-13
+182,Andrews Group,Education,201-1000,107,Starter,2024-08-19
+183,Peterson-Sheppard,Healthcare,11-50,172,Enterprise,2024-01-15
+184,Wilson-Jones,Education,1-10,204,Business,2023-01-09
+185,Ray Ltd,Technology,11-50,50,Starter,2024-10-22
+186,Hernandez PLC,Healthcare,201-1000,17,Growth,2025-03-15
+187,Mcknight Inc,Retail,11-50,239,Business,2025-05-15
+188,Obrien-Gibbs,Finance,201-1000,39,Growth,2023-07-08
+189,"James, Kerr and Evans",Retail,51-200,248,Growth,2024-12-22
+190,Torres-Oliver,Retail,201-1000,217,Starter,2024-11-18
+191,"Garcia, Farmer and Garrett",Healthcare,201-1000,234,Starter,2025-05-01
+192,"Miller, Allen and Arnold",Finance,201-1000,120,Business,2023-09-05
+193,Ortiz Ltd,Retail,11-50,220,Enterprise,2024-02-07
+194,Carter-Hall,Manufacturing,201-1000,165,Growth,2024-03-06
+195,Warner-Gibson,Manufacturing,51-200,117,Starter,2024-01-07
+196,Bradshaw Ltd,Retail,51-200,65,Starter,2023-05-01
+197,"Lara, Gonzalez and Wilson",Finance,51-200,86,Business,2024-02-27
+198,"Hernandez, Baker and Thomas",Technology,1-10,40,Business,2025-04-19
+199,Sparks PLC,Manufacturing,11-50,103,Business,2023-08-23
+200,"Morse, Gonzales and Harrison",Healthcare,11-50,21,Business,2023-08-26
+201,"Powell, Nelson and Fernandez",Education,201-1000,89,Growth,2024-10-06
+202,George Group,Manufacturing,201-1000,111,Starter,2025-04-22
+203,Munoz-Johnson,Finance,11-50,218,Starter,2023-04-07
+204,"Huff, Johnston and Sampson",Manufacturing,201-1000,236,Business,2024-10-14
+205,Johnston-Hines,Finance,1-10,224,Growth,2025-06-26
+206,Stone-Ramos,Healthcare,201-1000,127,Starter,2025-06-13
+207,Shea Group,Manufacturing,51-200,81,Starter,2023-01-10
+208,Costa-Harrison,Education,201-1000,142,Growth,2024-08-28
+209,Morris-Garcia,Finance,11-50,129,Starter,2025-04-28
+210,Jenkins-Simpson,Manufacturing,51-200,116,Starter,2023-12-07
+211,Cervantes-Pierce,Education,1-10,104,Growth,2025-01-24
+212,Edwards LLC,Technology,201-1000,190,Growth,2024-06-06
+213,Hancock-Bryan,Technology,201-1000,240,Growth,2023-09-14
+214,"Booth, Murray and Brown",Retail,1-10,237,Starter,2023-07-18
+215,Dean-Jimenez,Education,1-10,26,Business,2024-09-04
+216,Harris PLC,Finance,11-50,226,Starter,2024-10-27
+217,Kim-Wolfe,Technology,11-50,17,Starter,2024-12-18
+218,Dudley PLC,Finance,201-1000,88,Business,2024-02-09
+219,"Moore, Pierce and Tran",Technology,201-1000,88,Growth,2023-11-25
+220,Gay Inc,Education,201-1000,76,Business,2024-06-08
+221,Holland and Sons,Education,51-200,218,Growth,2024-10-16
+222,"Carter, Thornton and Perry",Education,201-1000,9,Growth,2023-05-08
+223,Sanchez-Arnold,Education,1-10,248,Starter,2025-04-17
+224,Weeks PLC,Manufacturing,11-50,171,Growth,2024-06-27
+225,Shields LLC,Education,1-10,198,Starter,2023-04-17
+226,Villa-Romero,Technology,11-50,56,Starter,2023-02-18
+227,Barber-Monroe,Retail,11-50,66,Enterprise,2023-02-01
+228,"Burns, Hernandez and Ryan",Healthcare,201-1000,176,Growth,2023-07-16
+229,Arnold-Daniels,Education,11-50,124,Business,2023-06-27
+230,Kane-Pollard,Finance,51-200,47,Growth,2024-02-03
+231,"Reyes, Chase and Jenkins",Healthcare,11-50,84,Business,2023-06-27
+232,"Kennedy, Mcintyre and James",Manufacturing,1-10,242,Growth,2023-06-17
+233,"Pollard, Simpson and Johnson",Retail,201-1000,106,Growth,2024-04-29
+234,"Rivera, Garcia and Kirk",Technology,1-10,156,Growth,2023-11-05
+235,"Lozano, Smith and Thomas",Manufacturing,1-10,183,Starter,2024-01-13
+236,Jones LLC,Healthcare,1-10,208,Business,2024-04-13
+237,"Schwartz, Santos and Christian",Manufacturing,1-10,93,Starter,2025-05-29
+238,"James, Stewart and Higgins",Education,201-1000,174,Starter,2025-04-07
+239,"Johnson, Jones and Welch",Healthcare,1-10,134,Growth,2024-07-29
+240,Francis Group,Technology,1-10,222,Starter,2024-06-14
+241,"Padilla, Garcia and Jackson",Healthcare,201-1000,32,Enterprise,2024-10-14
+242,Williams Inc,Healthcare,51-200,167,Enterprise,2024-11-04
+243,Brooks-Thomas,Retail,11-50,116,Enterprise,2024-12-15
+244,Knight-Sparks,Finance,51-200,162,Growth,2023-10-01
+245,Miller Group,Retail,201-1000,124,Starter,2025-04-16
+246,"Allen, Durham and Thomas",Education,51-200,87,Enterprise,2024-11-07
+247,"King, Scott and Smith",Education,1-10,76,Growth,2024-01-17
+248,Byrd-Moore,Education,11-50,197,Enterprise,2024-12-01
+249,Huerta-Evans,Education,201-1000,91,Enterprise,2024-12-22
+250,"Wright, Bruce and Gonzalez",Education,201-1000,222,Business,2023-02-14
+251,Rodriguez-James,Healthcare,11-50,129,Starter,2024-05-19
+252,"Phillips, Lyons and Johnson",Manufacturing,51-200,209,Growth,2023-11-26
+253,Hill-Knight,Manufacturing,51-200,76,Business,2024-02-06
+254,"Beltran, Lozano and Mcgee",Healthcare,1-10,137,Starter,2024-03-05
+255,Lawson LLC,Finance,1-10,66,Starter,2023-10-24
+256,"Lee, King and Campos",Manufacturing,201-1000,147,Growth,2024-09-23
+257,"Massey, Fuller and Berger",Manufacturing,201-1000,170,Enterprise,2024-01-09
+258,Parker Group,Technology,201-1000,207,Growth,2025-02-01
+259,"Diaz, Anderson and Browning",Healthcare,1-10,80,Growth,2023-01-27
+260,"Perry, Gonzalez and Buchanan",Healthcare,201-1000,182,Starter,2023-12-11
+261,"Shaw, Nelson and Martin",Education,51-200,174,Growth,2024-01-13
+262,Francis-Morgan,Technology,51-200,126,Enterprise,2025-06-22
+263,Mccarty-Taylor,Finance,51-200,113,Starter,2025-05-09
+264,"Ramsey, Whitney and Coffey",Retail,51-200,95,Growth,2025-05-04
+265,Davis-Foster,Healthcare,51-200,83,Business,2024-12-05
+266,"Martinez, Richardson and Curry",Healthcare,11-50,35,Business,2024-01-26
+267,"James, Little and Watson",Manufacturing,51-200,35,Growth,2023-10-27
+268,Ruiz PLC,Retail,11-50,54,Business,2025-04-12
+269,Herman-Walker,Technology,201-1000,75,Growth,2023-12-03
+270,"Colon, Blankenship and Turner",Education,51-200,30,Starter,2025-03-25
+271,Taylor Inc,Healthcare,51-200,63,Business,2023-10-29
+272,Wilson-Young,Retail,11-50,82,Business,2024-07-14
+273,Price LLC,Manufacturing,11-50,75,Business,2023-01-22
+274,"Horton, Fernandez and Matthews",Manufacturing,1-10,146,Enterprise,2023-03-12
+275,Mcclure Ltd,Technology,11-50,168,Growth,2024-03-29
+276,Gilbert-Crosby,Healthcare,1-10,228,Growth,2025-02-01
+277,Vaughn and Sons,Education,51-200,125,Business,2023-01-20
+278,Sampson-Foley,Technology,201-1000,92,Growth,2025-01-13
+279,"Richardson, Winters and Newman",Technology,1-10,69,Business,2023-10-14
+280,Hill-Donaldson,Education,1-10,215,Business,2025-01-12
+281,Bates Ltd,Manufacturing,201-1000,130,Business,2023-04-12
+282,"Maddox, Williams and Cook",Finance,1-10,43,Starter,2023-04-26
+283,"Harris, Gallegos and Spencer",Retail,51-200,26,Growth,2023-08-20
+284,Li and Sons,Healthcare,1-10,147,Starter,2024-01-21
+285,Kramer PLC,Technology,11-50,203,Growth,2024-10-08
+286,Garrison-Thomas,Finance,201-1000,120,Starter,2025-03-22
+287,"King, Thompson and Guerrero",Technology,51-200,225,Growth,2024-11-18
+288,Smith and Sons,Retail,51-200,150,Growth,2024-10-28
+289,Smith-Baker,Finance,1-10,247,Starter,2023-04-04
+290,"Fisher, Wilson and Brown",Education,11-50,72,Growth,2023-11-19
+291,Palmer-Rodriguez,Retail,11-50,66,Starter,2023-05-07
+292,Dougherty Inc,Manufacturing,1-10,45,Starter,2023-09-28
+293,"Boyd, Ellis and Maynard",Technology,201-1000,120,Business,2023-01-05
+294,Boone-Simmons,Technology,51-200,13,Growth,2024-12-30
+295,Joseph-Wallace,Technology,51-200,185,Starter,2023-12-26
+296,Franklin-Jones,Healthcare,201-1000,23,Growth,2024-03-15
+297,"Schultz, Kelley and Nguyen",Retail,51-200,206,Business,2023-12-29
+298,"Phillips, Wagner and Jordan",Manufacturing,201-1000,34,Starter,2023-11-04
+299,Farrell Ltd,Retail,11-50,170,Growth,2025-04-25
+300,"Glenn, Jordan and Beasley",Education,51-200,216,Starter,2023-08-20
+301,Wilcox-Ross,Manufacturing,1-10,20,Starter,2023-08-09
+302,Edwards LLC,Manufacturing,51-200,157,Growth,2023-09-15
+303,Brooks-Hernandez,Education,51-200,117,Growth,2025-06-03
+304,Davis Inc,Technology,201-1000,181,Growth,2023-07-13
+305,Davis-Rodgers,Finance,201-1000,246,Business,2024-04-17
+306,"Brown, Frye and Hoffman",Manufacturing,201-1000,117,Enterprise,2024-02-27
+307,Jenkins Ltd,Education,1-10,232,Growth,2023-05-05
+308,"Williams, Roberts and Edwards",Technology,51-200,159,Starter,2024-11-02
+309,"Romero, Moore and Olson",Technology,1-10,28,Business,2024-01-24
+310,Bruce-Richardson,Healthcare,1-10,200,Starter,2023-12-22
+311,"Perez, Patterson and Hoffman",Retail,1-10,200,Growth,2024-02-23
+312,"Leonard, Hawkins and Lynch",Manufacturing,201-1000,137,Starter,2023-09-30
+313,"Adams, White and Park",Healthcare,51-200,51,Starter,2024-11-17
+314,Bell-White,Finance,201-1000,167,Enterprise,2025-06-28
+315,"Sandoval, Jones and Figueroa",Technology,1-10,125,Business,2025-02-02
+316,Reese and Sons,Education,201-1000,90,Growth,2024-06-24
+317,Chavez-Moore,Healthcare,1-10,224,Growth,2024-05-13
+318,"Nguyen, Pugh and Carlson",Technology,51-200,110,Starter,2023-09-07
+319,Moore PLC,Technology,51-200,174,Starter,2025-02-08
+320,"Miller, Ramos and Coleman",Retail,1-10,121,Starter,2024-09-14
+321,Perry-Lewis,Retail,51-200,69,Growth,2023-05-17
+322,Reed Inc,Healthcare,1-10,202,Business,2024-05-17
+323,"Gregory, Tucker and Estrada",Technology,1-10,173,Growth,2024-09-19
+324,Foster PLC,Technology,201-1000,110,Starter,2025-04-22
+325,Harris and Sons,Finance,11-50,137,Enterprise,2023-03-26
+326,Roberts-Wilson,Education,201-1000,165,Business,2024-07-16
+327,"Jordan, Anderson and Patel",Finance,1-10,57,Growth,2024-11-17
+328,"Hansen, Barnett and Gomez",Education,11-50,242,Growth,2024-02-19
+329,"Williams, Smith and Morse",Healthcare,201-1000,230,Growth,2024-03-23
+330,"Patterson, Sullivan and Bowman",Healthcare,1-10,12,Starter,2025-01-22
+331,Sullivan LLC,Finance,11-50,84,Growth,2024-01-07
+332,"Stevens, Norris and Cox",Education,1-10,146,Business,2025-05-05
+333,Sanchez PLC,Education,1-10,62,Starter,2024-09-25
+334,"Miller, Harrell and Reese",Finance,201-1000,247,Starter,2023-06-26
+335,Maxwell-Jones,Manufacturing,11-50,132,Starter,2023-07-02
+336,Schmidt and Sons,Healthcare,51-200,111,Starter,2024-03-29
+337,Luna-Fuentes,Finance,201-1000,67,Business,2025-01-19
+338,Garcia LLC,Finance,11-50,103,Business,2024-12-10
+339,Morrison Ltd,Technology,11-50,226,Growth,2023-10-24
+340,Bean Ltd,Education,51-200,202,Starter,2023-04-19
+341,Webster-Wolf,Education,51-200,244,Growth,2024-10-06
+342,"Glass, Cunningham and Reid",Retail,51-200,215,Growth,2025-02-27
+343,Lin-Burton,Finance,51-200,190,Starter,2023-01-04
+344,Jones-Ramos,Healthcare,201-1000,226,Growth,2024-04-08
+345,Vargas-Bell,Technology,201-1000,142,Growth,2023-08-19
+346,Murray-Johnson,Healthcare,51-200,90,Growth,2025-01-22
+347,Jones-Lin,Technology,201-1000,121,Growth,2025-05-07
+348,"Wheeler, Cruz and Carpenter",Manufacturing,11-50,183,Starter,2024-05-14
+349,Cole PLC,Manufacturing,201-1000,64,Growth,2024-01-06
+350,Morris Group,Retail,1-10,86,Growth,2024-09-30
+351,Rosario Group,Technology,201-1000,103,Growth,2025-01-04
+352,Haas-Miller,Manufacturing,201-1000,14,Business,2023-08-25
+353,Williams Ltd,Education,51-200,227,Growth,2023-07-16
+354,Warren-Bishop,Healthcare,201-1000,30,Starter,2023-06-05
+355,Hardin-Hughes,Healthcare,201-1000,8,Starter,2025-03-28
+356,"Harper, Mccormick and Holland",Technology,201-1000,227,Growth,2023-08-12
+357,Davis-Gregory,Healthcare,1-10,125,Starter,2023-08-28
+358,Cummings-Douglas,Retail,51-200,164,Growth,2024-02-16
+359,Cook PLC,Manufacturing,1-10,223,Enterprise,2024-09-09
+360,Rangel LLC,Manufacturing,201-1000,249,Growth,2024-05-25
+361,"Bates, Anderson and Fletcher",Technology,201-1000,228,Growth,2024-05-06
+362,Hansen-Schneider,Healthcare,1-10,163,Growth,2025-04-20
+363,Santiago Ltd,Manufacturing,11-50,166,Growth,2023-04-17
+364,"Davis, Santiago and Romero",Technology,11-50,196,Growth,2024-03-22
+365,Parker-Bean,Healthcare,201-1000,30,Enterprise,2023-05-21
+366,Lee-Cooke,Finance,201-1000,47,Growth,2023-06-06
+367,Phillips Inc,Retail,1-10,16,Enterprise,2024-04-10
+368,"Conley, Stephenson and Johnson",Healthcare,1-10,80,Enterprise,2024-05-18
+369,"Anderson, Bennett and Martin",Manufacturing,51-200,115,Starter,2024-07-10
+370,"Lamb, Martin and Kim",Education,11-50,140,Starter,2023-08-15
+371,Rhodes-Young,Education,11-50,48,Starter,2024-10-02
+372,"Mitchell, Goodman and Cole",Retail,1-10,161,Starter,2023-09-29
+373,Collins Group,Finance,11-50,132,Starter,2024-08-17
+374,Gregory-Hudson,Education,11-50,64,Growth,2025-06-24
+375,Hammond-Strickland,Retail,51-200,122,Starter,2024-12-17
+376,"Barnes, Martin and Gonzalez",Retail,1-10,235,Starter,2024-02-01
+377,Salas Inc,Manufacturing,51-200,178,Business,2024-12-23
+378,Sawyer-Spencer,Technology,11-50,23,Starter,2025-04-29
+379,"Singleton, Rosales and Mitchell",Finance,51-200,155,Business,2024-11-17
+380,Cole-Palmer,Education,201-1000,181,Starter,2024-04-09
+381,Potts and Sons,Education,201-1000,221,Starter,2024-01-24
+382,Arias-Perry,Education,11-50,103,Growth,2024-04-14
+383,"Brooks, Hughes and Miller",Finance,1-10,65,Growth,2025-01-20
+384,Flores Inc,Manufacturing,51-200,152,Business,2024-08-15
+385,"Rogers, Thomas and Johnson",Education,51-200,10,Business,2024-04-04
+386,"Guerra, Blake and Harrison",Retail,51-200,7,Business,2024-09-06
+387,Bullock Inc,Healthcare,1-10,238,Starter,2025-05-29
+388,Conley PLC,Manufacturing,51-200,203,Starter,2025-02-10
+389,"Rose, Rodriguez and Roberts",Healthcare,51-200,61,Business,2023-12-24
+390,Williams Group,Manufacturing,51-200,178,Business,2023-10-23
+391,"Bryant, Rodriguez and Stein",Retail,1-10,236,Enterprise,2023-08-01
+392,"Smith, Robertson and Allen",Finance,51-200,206,Growth,2023-03-03
+393,Patterson-Mendez,Finance,1-10,153,Growth,2024-11-15
+394,"Butler, Beck and Miller",Healthcare,11-50,28,Business,2024-07-20
+395,Ashley PLC,Retail,51-200,196,Starter,2024-04-03
+396,"Spencer, Myers and Harrison",Manufacturing,11-50,56,Enterprise,2024-10-07
+397,Zavala-King,Technology,51-200,140,Business,2023-07-25
+398,Kramer-Cooper,Manufacturing,51-200,217,Growth,2025-02-18
+399,"Fuller, Ingram and Moss",Healthcare,51-200,238,Business,2023-09-13
+400,Williams PLC,Healthcare,51-200,196,Business,2025-01-18
+401,"Thompson, Maxwell and Marshall",Manufacturing,1-10,124,Starter,2024-06-10
+402,Welch-Cain,Technology,11-50,198,Enterprise,2023-04-27
+403,"Parsons, Ellis and Carter",Technology,201-1000,221,Growth,2023-12-17
+404,Blackwell LLC,Healthcare,51-200,28,Business,2025-05-15
+405,"Sanders, Ochoa and Kennedy",Technology,1-10,72,Starter,2024-09-04
+406,"Lee, Kelly and Norman",Manufacturing,1-10,121,Business,2025-04-13
+407,Nelson-Lloyd,Education,51-200,154,Growth,2024-07-26
+408,Paul-Kline,Education,51-200,32,Starter,2024-08-14
+409,Beltran-Crawford,Education,201-1000,11,Enterprise,2023-12-30
+410,Glass-Stone,Technology,51-200,239,Starter,2025-05-22
+411,"Coleman, Jordan and Carney",Finance,1-10,167,Starter,2023-12-10
+412,"Carter, Garcia and Murphy",Healthcare,51-200,171,Enterprise,2024-12-22
+413,Griffin-Robbins,Finance,1-10,40,Enterprise,2024-09-26
+414,"Wallace, West and Acosta",Healthcare,1-10,82,Growth,2023-03-12
+415,"Bolton, Hill and Whitney",Technology,1-10,29,Growth,2025-02-04
+416,Lambert Group,Healthcare,11-50,104,Growth,2023-12-31
+417,"Owen, Shelton and Cisneros",Finance,51-200,176,Starter,2024-12-05
+418,"Gregory, Kim and Martinez",Finance,201-1000,155,Starter,2025-04-19
+419,"Diaz, Reyes and Bradley",Retail,201-1000,172,Growth,2023-08-29
+420,Shelton LLC,Healthcare,201-1000,162,Business,2023-06-03
+421,Hines-Berry,Retail,51-200,13,Business,2024-09-25
+422,Sanders-Banks,Finance,11-50,118,Business,2024-07-29
+423,Johnson and Sons,Education,11-50,223,Starter,2024-11-21
+424,"Hughes, Hoffman and Green",Healthcare,1-10,180,Growth,2024-07-17
+425,"Griffin, Davies and Mitchell",Education,51-200,20,Starter,2024-07-24
+426,Martinez Inc,Education,51-200,53,Growth,2024-09-10
+427,Roach Group,Technology,201-1000,28,Growth,2023-07-09
+428,"Ponce, Downs and Contreras",Manufacturing,1-10,17,Business,2023-11-26
+429,Pierce LLC,Healthcare,11-50,37,Growth,2024-06-02
+430,Joseph Ltd,Manufacturing,11-50,22,Starter,2025-05-27
+431,Leon PLC,Finance,11-50,155,Starter,2025-05-10
+432,Galloway and Sons,Finance,11-50,89,Business,2023-12-02
+433,Johnson-Spencer,Healthcare,1-10,75,Growth,2023-08-18
+434,Lara-Arnold,Retail,11-50,143,Starter,2023-08-13
+435,Jones Group,Manufacturing,11-50,33,Starter,2024-01-25
+436,"Mendoza, Jenkins and Ortiz",Retail,11-50,8,Business,2023-02-10
+437,Martinez LLC,Manufacturing,11-50,155,Starter,2024-07-10
+438,Cole Ltd,Retail,1-10,49,Business,2024-05-17
+439,Anderson-Calderon,Retail,1-10,37,Business,2024-02-17
+440,"Matthews, Saunders and Anderson",Retail,1-10,195,Starter,2024-10-15
+441,Guerra PLC,Finance,201-1000,119,Starter,2023-04-09
+442,Martin-Morris,Manufacturing,1-10,120,Enterprise,2024-07-16
+443,Reed PLC,Healthcare,11-50,247,Growth,2025-02-21
+444,King Ltd,Retail,51-200,122,Growth,2023-03-09
+445,Martinez-Turner,Retail,1-10,127,Business,2023-02-18
+446,Shaw and Sons,Retail,201-1000,180,Enterprise,2024-09-15
+447,"Moore, Hopkins and Le",Retail,201-1000,187,Enterprise,2023-06-17
+448,Kirby-Elliott,Technology,1-10,235,Business,2024-11-20
+449,Williams Ltd,Retail,51-200,160,Growth,2023-05-06
+450,Curtis-Wang,Education,1-10,37,Starter,2023-08-19
+451,"Fowler, Jimenez and Burton",Healthcare,51-200,102,Business,2024-03-03
+452,"Frye, Webb and Ballard",Manufacturing,51-200,121,Growth,2025-04-04
+453,Evans-Jones,Technology,201-1000,30,Growth,2025-02-24
+454,Gonzales Group,Education,11-50,115,Enterprise,2023-06-27
+455,Peterson and Sons,Healthcare,11-50,110,Starter,2024-12-02
+456,"Flores, Travis and Reed",Education,201-1000,107,Growth,2024-06-10
+457,Hodges PLC,Retail,1-10,85,Starter,2024-10-08
+458,Flores Group,Technology,51-200,175,Growth,2024-10-24
+459,Cole-Thomas,Technology,51-200,249,Starter,2024-01-31
+460,Dougherty-Lin,Education,201-1000,22,Starter,2023-08-26
+461,Estes and Sons,Healthcare,1-10,28,Starter,2023-05-22
+462,"Griffith, Lee and Moore",Retail,1-10,195,Growth,2024-11-01
+463,Jimenez-Parker,Technology,11-50,147,Business,2024-08-01
+464,Landry PLC,Education,51-200,176,Growth,2023-04-04
+465,Lewis LLC,Technology,201-1000,95,Enterprise,2023-07-09
+466,Campbell PLC,Manufacturing,1-10,78,Growth,2024-10-19
+467,"Ruiz, Herrera and Boone",Education,51-200,31,Starter,2024-04-30
+468,Khan Ltd,Healthcare,11-50,44,Business,2025-06-16
+469,Diaz-Morales,Retail,11-50,221,Starter,2025-01-19
+470,"Lee, Tran and Jones",Retail,51-200,221,Enterprise,2023-06-18
+471,Duran-Ramirez,Retail,51-200,34,Starter,2025-05-14
+472,"Carr, Anderson and Davis",Healthcare,11-50,211,Enterprise,2024-03-08
+473,Grant-Diaz,Finance,1-10,160,Starter,2024-10-28
+474,Morrison Group,Retail,1-10,51,Business,2024-02-20
+475,Williams and Sons,Manufacturing,51-200,240,Growth,2024-02-29
+476,Brock-Stone,Finance,51-200,6,Enterprise,2024-06-11
+477,"Barry, Taylor and Velazquez",Healthcare,11-50,149,Starter,2023-10-09
+478,Long PLC,Manufacturing,1-10,41,Growth,2024-09-14
+479,Wheeler-Romero,Retail,1-10,196,Enterprise,2023-02-17
+480,"Burns, Hart and Wells",Technology,11-50,101,Growth,2025-04-04
+481,Rivera-Rodriguez,Education,201-1000,92,Growth,2024-10-14
+482,"Parker, Roach and Wiggins",Manufacturing,51-200,84,Growth,2023-09-02
+483,Carlson LLC,Manufacturing,1-10,231,Growth,2024-05-18
+484,"Lane, Griffith and Silva",Finance,11-50,45,Growth,2023-03-23
+485,"Fuller, Harvey and Randall",Finance,1-10,74,Growth,2023-03-19
+486,"Allen, Armstrong and Graves",Finance,201-1000,129,Enterprise,2024-11-19
+487,Alexander Group,Finance,201-1000,74,Starter,2024-11-17
+488,Vaughn-Jenkins,Retail,1-10,93,Starter,2023-12-01
+489,Salas-Fitzgerald,Technology,1-10,77,Enterprise,2024-10-29
+490,"Taylor, Clark and Nguyen",Manufacturing,51-200,16,Business,2025-01-25
+491,Fox-Edwards,Finance,201-1000,158,Growth,2023-12-09
+492,Barr-Peterson,Healthcare,1-10,57,Growth,2023-03-27
+493,"Ingram, Le and Schneider",Manufacturing,11-50,201,Starter,2024-04-13
+494,Bishop-Lee,Finance,51-200,79,Starter,2023-08-02
+495,Grant-Walker,Healthcare,1-10,6,Growth,2024-05-24
+496,Bush-Vaughn,Education,201-1000,49,Growth,2025-02-11
+497,Castillo-Castro,Manufacturing,201-1000,141,Growth,2023-07-20
+498,Roberts-Berry,Retail,51-200,23,Starter,2023-12-24
+499,Huang-Foster,Healthcare,1-10,116,Enterprise,2024-09-08
+500,Roberts LLC,Manufacturing,201-1000,240,Enterprise,2023-01-30
+501,Reed Group,Manufacturing,51-200,152,Growth,2023-05-01
+502,Burgess-Lewis,Retail,201-1000,186,Growth,2024-10-28
+503,Fitzpatrick-Horton,Finance,51-200,34,Starter,2024-10-10
+504,Gilbert PLC,Finance,1-10,88,Business,2024-09-21
+505,Williams PLC,Finance,201-1000,217,Growth,2023-09-24
+506,"Hall, Garcia and Rivera",Education,1-10,116,Starter,2024-07-16
+507,Maldonado and Sons,Technology,11-50,116,Enterprise,2023-06-14
+508,"Spence, Moore and Delgado",Education,1-10,106,Business,2024-09-14
+509,Santos-Avila,Healthcare,51-200,61,Enterprise,2024-04-26
+510,Mitchell-Brown,Technology,11-50,24,Business,2024-06-01
+511,"Andrews, Nichols and Sharp",Technology,1-10,140,Growth,2025-03-04
+512,Butler and Sons,Technology,11-50,236,Growth,2025-03-03
+513,French-Lopez,Manufacturing,51-200,191,Enterprise,2024-06-26
+514,Mcdowell-Smith,Retail,11-50,31,Business,2023-08-18
+515,"Rodriguez, Bird and Mitchell",Manufacturing,51-200,55,Starter,2023-08-16
+516,"Warren, Small and Anderson",Retail,11-50,199,Starter,2023-09-27
+517,Nelson-Lamb,Healthcare,11-50,248,Growth,2023-04-28
+518,Simon Ltd,Healthcare,201-1000,198,Business,2025-02-06
+519,"Lopez, Doyle and Gibbs",Retail,201-1000,179,Enterprise,2025-05-25
+520,"Todd, Thompson and Chase",Education,51-200,226,Starter,2025-05-26
+521,Robertson-Miller,Manufacturing,11-50,117,Growth,2024-05-06
+522,Lopez and Sons,Education,201-1000,118,Growth,2023-04-17
+523,Boyle-Smith,Education,51-200,156,Enterprise,2024-04-15
+524,Griffin LLC,Healthcare,51-200,134,Business,2023-03-29
+525,Aguilar-Berry,Healthcare,51-200,123,Business,2023-04-26
+526,"Ward, Young and Contreras",Education,1-10,19,Growth,2024-12-03
+527,Moore-Parks,Manufacturing,51-200,24,Growth,2024-07-26
+528,Vaughn-Fowler,Healthcare,201-1000,123,Starter,2023-05-21
+529,Mendez-Robinson,Finance,1-10,120,Starter,2025-06-20
+530,Hernandez-Adkins,Retail,11-50,87,Business,2025-06-07
+531,Perry-Dunn,Education,11-50,250,Business,2025-01-08
+532,"Pham, Petersen and Gill",Manufacturing,201-1000,31,Enterprise,2023-04-07
+533,"Marks, Miller and Griffin",Manufacturing,1-10,134,Enterprise,2024-06-17
+534,Miller-Elliott,Technology,1-10,68,Growth,2023-09-26
+535,"Leach, Harris and Herrera",Finance,201-1000,139,Business,2024-11-11
+536,Bond-Ramos,Manufacturing,11-50,98,Enterprise,2025-03-23
+537,Love Group,Technology,51-200,104,Business,2024-08-02
+538,"Griffin, Brown and Anderson",Education,51-200,178,Starter,2024-09-27
+539,Elliott-Hansen,Manufacturing,51-200,21,Growth,2023-03-23
+540,Cummings-Foster,Technology,1-10,147,Starter,2024-05-27
+541,"Robinson, Jones and Henderson",Manufacturing,51-200,69,Enterprise,2024-08-23
+542,Weaver Inc,Technology,51-200,25,Growth,2023-08-22
+543,Johnson-Ortiz,Finance,11-50,239,Starter,2025-06-24
+544,"Good, Brewer and Fisher",Education,51-200,172,Growth,2024-06-27
+545,Kane-Knox,Education,11-50,157,Growth,2024-08-31
+546,Vega Ltd,Retail,51-200,148,Growth,2023-05-12
+547,Valdez LLC,Technology,51-200,213,Starter,2024-08-08
+548,Haney Group,Retail,1-10,170,Growth,2023-07-18
+549,Luna and Sons,Technology,51-200,9,Growth,2024-10-19
+550,Good Group,Manufacturing,51-200,51,Business,2024-07-17
+551,"Stephens, Patel and Morrow",Finance,51-200,247,Growth,2023-11-29
+552,Reed-Hill,Manufacturing,11-50,62,Business,2025-01-25
+553,Johnson Ltd,Education,11-50,24,Growth,2023-08-02
+554,"Miranda, Stephenson and Smith",Finance,1-10,134,Growth,2024-04-04
+555,Garcia Inc,Education,1-10,174,Business,2025-04-18
+556,"Powers, Brennan and Sanchez",Technology,11-50,157,Growth,2024-06-07
+557,Gonzales-Fernandez,Technology,11-50,46,Starter,2024-08-08
+558,Gordon LLC,Finance,11-50,189,Starter,2023-10-08
+559,"Johnston, Ray and Barton",Healthcare,1-10,110,Business,2024-11-10
+560,Turner and Sons,Manufacturing,11-50,118,Growth,2024-07-19
+561,"Walker, Turner and Brown",Retail,201-1000,64,Business,2024-03-18
+562,"Buck, Garrett and Simmons",Education,11-50,84,Starter,2025-04-09
+563,Compton Ltd,Manufacturing,11-50,99,Starter,2024-12-29
+564,Floyd-Flores,Education,201-1000,123,Starter,2025-06-05
+565,Hernandez-Bennett,Retail,201-1000,133,Growth,2024-03-13
+566,Allen-Perez,Manufacturing,201-1000,46,Growth,2025-03-30
+567,Shaffer Inc,Retail,11-50,228,Growth,2023-11-07
+568,Faulkner-Grant,Finance,1-10,169,Growth,2024-01-24
+569,Sanchez-Harris,Manufacturing,51-200,146,Enterprise,2025-01-16
+570,Nielsen LLC,Technology,1-10,77,Starter,2023-06-09
+571,"Hardy, Lee and Adams",Manufacturing,11-50,74,Growth,2023-05-11
+572,"Morrison, Russo and Lopez",Retail,11-50,217,Business,2024-11-28
+573,"Powers, Robinson and Clark",Healthcare,1-10,247,Growth,2024-11-10
+574,Krueger-Smith,Finance,201-1000,231,Growth,2023-12-11
+575,"Wilson, Key and Mendoza",Finance,1-10,111,Business,2024-06-27
+576,"Munoz, Harris and Herman",Retail,201-1000,133,Enterprise,2023-03-24
+577,Rowe-James,Retail,11-50,103,Starter,2024-08-03
+578,"Howard, Green and Hunt",Education,51-200,62,Enterprise,2023-05-07
+579,Garcia-Zavala,Education,51-200,243,Growth,2023-02-13
+580,Rocha-Wood,Education,51-200,207,Starter,2023-06-03
+581,Hart and Sons,Manufacturing,11-50,14,Growth,2023-08-15
+582,Smith PLC,Retail,201-1000,183,Enterprise,2024-03-21
+583,"Cortez, Phillips and Gonzalez",Finance,201-1000,119,Growth,2023-08-04
+584,Hudson-Sanchez,Retail,1-10,9,Starter,2023-01-09
+585,"Harding, Morgan and Hines",Education,11-50,218,Growth,2024-02-02
+586,"May, Henry and Jackson",Healthcare,201-1000,33,Starter,2023-08-21
+587,Taylor PLC,Education,11-50,82,Starter,2024-03-23
+588,Stark PLC,Manufacturing,1-10,66,Starter,2023-07-09
+589,Warren Inc,Manufacturing,201-1000,21,Starter,2024-10-14
+590,Duran Group,Finance,201-1000,157,Starter,2023-06-22
+591,"Hall, Mann and Smith",Retail,1-10,166,Starter,2025-04-12
+592,Brooks-Williamson,Manufacturing,11-50,188,Growth,2025-03-11
+593,"Durham, Hopkins and Smith",Retail,51-200,114,Starter,2023-08-12
+594,"Jenkins, Smith and Bowen",Retail,51-200,66,Starter,2023-01-03
+595,Smith-Li,Manufacturing,201-1000,52,Business,2025-06-05
+596,Drake-Browning,Technology,51-200,22,Growth,2023-05-13
+597,Warren and Sons,Finance,1-10,104,Growth,2025-03-28
+598,"Fox, Ochoa and Adams",Education,1-10,167,Starter,2024-12-31
+599,Watson Group,Education,51-200,69,Starter,2024-08-23
+600,"Sanchez, Terry and Evans",Technology,51-200,206,Starter,2023-01-26
+601,"Frey, Santos and Johnson",Education,51-200,66,Starter,2023-04-15
+602,Bennett-Alvarez,Manufacturing,51-200,39,Starter,2023-06-11
+603,Warner Inc,Education,51-200,144,Starter,2023-03-10
+604,Newman-Rivera,Technology,11-50,217,Starter,2024-06-09
+605,"Ellison, Hall and Valenzuela",Manufacturing,201-1000,166,Starter,2024-12-22
+606,"Alvarez, Williams and Jones",Healthcare,11-50,21,Growth,2023-10-11
+607,"Elliott, Johnson and Mcfarland",Healthcare,1-10,80,Starter,2024-12-11
+608,Ali PLC,Finance,1-10,207,Growth,2023-11-10
+609,"Nicholson, Hickman and Evans",Retail,1-10,85,Growth,2023-11-06
+610,Knight Group,Manufacturing,201-1000,213,Growth,2024-04-26
+611,"Rivera, Campos and Taylor",Manufacturing,201-1000,69,Starter,2025-04-23
+612,"Miller, Mcgee and Reed",Technology,11-50,78,Business,2023-02-26
+613,Hall-Jones,Retail,1-10,226,Growth,2024-07-08
+614,"Friedman, Sanders and Ayala",Technology,51-200,36,Starter,2024-05-30
+615,"Nelson, Riddle and Henry",Healthcare,201-1000,232,Business,2024-07-25
+616,"Pugh, Reynolds and Frazier",Manufacturing,201-1000,234,Enterprise,2024-09-13
+617,Miller-Montgomery,Finance,51-200,52,Starter,2024-08-23
+618,"Jones, Adams and James",Manufacturing,201-1000,99,Starter,2025-02-09
+619,Singh LLC,Healthcare,51-200,210,Business,2025-03-17
+620,Davis LLC,Education,201-1000,25,Business,2023-05-09
+621,Juarez-Garcia,Technology,11-50,144,Starter,2024-10-30
+622,Jordan PLC,Retail,51-200,31,Starter,2024-04-01
+623,"Russell, Johnson and Gomez",Technology,51-200,174,Growth,2023-05-05
+624,"George, Nguyen and Cruz",Healthcare,51-200,119,Growth,2024-04-04
+625,Hughes-Miller,Retail,11-50,181,Growth,2024-10-23
+626,Armstrong and Sons,Manufacturing,51-200,119,Growth,2024-11-20
+627,Jackson-Adams,Healthcare,51-200,162,Growth,2023-03-07
+628,Thomas-Jackson,Healthcare,51-200,168,Business,2024-11-06
+629,Evans-Patton,Healthcare,1-10,176,Starter,2023-03-31
+630,Raymond-Le,Education,51-200,136,Starter,2024-09-23
+631,"Jensen, Ellis and Taylor",Technology,1-10,41,Business,2023-09-06
+632,Cook-Oliver,Healthcare,1-10,37,Business,2024-11-11
+633,Cook-Ochoa,Manufacturing,11-50,204,Growth,2023-04-15
+634,"Taylor, Flores and Valentine",Finance,51-200,103,Growth,2024-07-23
+635,Edwards-Oconnell,Healthcare,1-10,159,Starter,2025-05-31
+636,Navarro-Chen,Retail,201-1000,247,Growth,2023-08-27
+637,Nguyen LLC,Education,51-200,118,Growth,2024-07-30
+638,Wilson-Elliott,Retail,11-50,140,Starter,2023-04-30
+639,"White, Saunders and Johnson",Manufacturing,201-1000,85,Starter,2024-07-24
+640,Hahn-Clark,Healthcare,11-50,250,Growth,2024-03-08
+641,"Jones, Abbott and Pope",Manufacturing,1-10,193,Starter,2023-06-26
+642,Taylor-Turner,Healthcare,201-1000,137,Starter,2023-10-17
+643,"Moore, Henderson and Bennett",Education,1-10,72,Starter,2024-08-24
+644,"Mendoza, Morales and Hunter",Manufacturing,201-1000,59,Starter,2024-02-09
+645,Stephens-Gibbs,Healthcare,201-1000,56,Starter,2024-03-19
+646,"Woodard, Herrera and Little",Technology,11-50,223,Business,2023-07-10
+647,Mack Ltd,Manufacturing,201-1000,49,Growth,2023-04-26
+648,Jackson-Salazar,Retail,1-10,212,Growth,2024-11-22
+649,"Byrd, Ross and Goodwin",Education,51-200,186,Business,2024-05-11
+650,Smith LLC,Finance,51-200,233,Growth,2023-04-11
+651,"Burgess, Grant and Watts",Finance,11-50,187,Starter,2024-04-10
+652,Brooks-Ford,Manufacturing,51-200,135,Growth,2023-09-28
+653,"Vaughn, Hernandez and Cuevas",Education,1-10,56,Growth,2023-12-15
+654,Phillips Inc,Technology,11-50,207,Business,2023-08-04
+655,"Thomas, Collins and Gibson",Finance,1-10,97,Growth,2025-02-06
+656,"Webb, Alvarez and Kim",Manufacturing,51-200,124,Starter,2025-05-10
+657,Flores-Evans,Manufacturing,11-50,161,Starter,2025-05-06
+658,Johnson LLC,Manufacturing,1-10,84,Growth,2023-05-14
+659,Byrd and Sons,Manufacturing,201-1000,139,Growth,2024-09-10
+660,Black PLC,Finance,201-1000,215,Growth,2024-09-30
+661,Castro-Mullen,Finance,1-10,37,Growth,2025-06-12
+662,Soto-Lopez,Manufacturing,1-10,120,Enterprise,2024-05-07
+663,Foster-Mclaughlin,Finance,51-200,37,Growth,2024-12-24
+664,Vargas-Price,Manufacturing,11-50,201,Starter,2025-05-06
+665,Harris Ltd,Technology,201-1000,133,Starter,2023-07-20
+666,"Garcia, Wiggins and Lopez",Healthcare,1-10,137,Starter,2023-03-28
+667,Ellis LLC,Manufacturing,51-200,47,Starter,2023-08-26
+668,Rose-Fowler,Retail,51-200,244,Starter,2023-09-09
+669,Carr-Matthews,Healthcare,51-200,247,Starter,2023-12-17
+670,Bruce-Williamson,Manufacturing,51-200,221,Starter,2025-03-17
+671,"Mcbride, Sellers and Lawrence",Manufacturing,51-200,55,Starter,2023-05-03
+672,Edwards and Sons,Healthcare,51-200,37,Business,2025-05-05
+673,White Ltd,Finance,1-10,133,Starter,2024-04-15
+674,"Price, Carlson and Andrews",Education,11-50,48,Growth,2023-09-19
+675,Tucker PLC,Manufacturing,1-10,216,Growth,2024-06-08
+676,"Arias, Thompson and Jackson",Healthcare,1-10,16,Enterprise,2023-02-14
+677,Lopez Group,Retail,51-200,171,Starter,2025-06-14
+678,Glenn Inc,Education,201-1000,163,Growth,2023-11-24
+679,Lee Group,Retail,201-1000,232,Enterprise,2023-02-17
+680,"Delgado, Ortiz and Vasquez",Manufacturing,51-200,169,Business,2025-04-27
+681,Burns-Miller,Technology,201-1000,67,Business,2024-04-14
+682,Carter LLC,Finance,51-200,121,Starter,2024-09-22
+683,"Roberts, Norman and Cunningham",Education,1-10,45,Starter,2023-04-24
+684,"Dixon, Armstrong and Adams",Retail,201-1000,128,Growth,2024-11-13
+685,Weaver-Sherman,Manufacturing,11-50,92,Enterprise,2024-12-22
+686,Payne-Fritz,Technology,51-200,225,Growth,2023-08-12
+687,"Greer, Potter and Evans",Technology,51-200,107,Growth,2024-05-11
+688,Baker-Atkins,Technology,51-200,136,Starter,2023-07-23
+689,Grimes-Wilson,Finance,1-10,86,Business,2025-05-22
+690,Cochran PLC,Manufacturing,201-1000,36,Starter,2024-01-11
+691,Callahan-Bishop,Education,201-1000,68,Starter,2024-02-20
+692,Jensen and Sons,Finance,1-10,17,Growth,2023-08-07
+693,Hudson PLC,Healthcare,201-1000,226,Growth,2024-03-26
+694,"Ryan, Morris and Padilla",Healthcare,11-50,226,Starter,2024-10-11
+695,"Adams, Hodge and Duke",Manufacturing,51-200,244,Starter,2023-09-06
+696,Taylor Group,Technology,51-200,53,Growth,2025-06-16
+697,Camacho-Martinez,Finance,201-1000,136,Starter,2023-09-05
+698,Thomas LLC,Finance,201-1000,230,Growth,2024-12-26
+699,"Long, Thomas and Chen",Manufacturing,201-1000,10,Starter,2024-04-24
+700,Brooks-Jones,Technology,201-1000,134,Growth,2023-05-20
+701,Robertson-Ramirez,Healthcare,11-50,60,Growth,2024-12-11
+702,Clements-Murphy,Technology,51-200,17,Starter,2025-06-25
+703,"Davis, Stanton and Reid",Manufacturing,51-200,131,Starter,2023-03-20
+704,Horn-Flynn,Education,51-200,142,Starter,2025-01-01
+705,Donaldson and Sons,Education,1-10,115,Starter,2023-01-13
+706,Morris-Campbell,Retail,51-200,191,Enterprise,2023-07-28
+707,"Anderson, Phelps and Kramer",Manufacturing,201-1000,98,Starter,2024-07-22
+708,Williams Ltd,Education,201-1000,18,Business,2023-03-12
+709,Martinez and Sons,Education,11-50,97,Starter,2025-06-04
+710,Smith-Rubio,Finance,51-200,23,Growth,2025-05-09
+711,"Blankenship, Khan and Turner",Healthcare,201-1000,200,Business,2024-08-23
+712,Pena LLC,Technology,51-200,216,Growth,2025-05-04
+713,Beck-Banks,Technology,11-50,29,Growth,2023-07-04
+714,Garrett-Barber,Finance,51-200,208,Growth,2024-09-03
+715,Rios-Padilla,Technology,51-200,198,Starter,2024-06-10
+716,Woods and Sons,Retail,11-50,159,Enterprise,2023-08-13
+717,Stone Group,Technology,201-1000,133,Business,2025-03-01
+718,Dominguez Inc,Education,1-10,14,Enterprise,2023-03-04
+719,"Anderson, Jones and Reyes",Manufacturing,51-200,210,Starter,2023-08-01
+720,Garcia LLC,Healthcare,201-1000,43,Business,2025-01-05
+721,Reyes and Sons,Manufacturing,11-50,88,Enterprise,2025-03-11
+722,"Thomas, Moreno and Smith",Manufacturing,11-50,105,Starter,2024-05-09
+723,Alexander Ltd,Finance,51-200,134,Starter,2024-04-09
+724,"Goodman, Gillespie and Jensen",Education,201-1000,186,Business,2025-03-02
+725,Miller Inc,Finance,51-200,126,Growth,2025-05-24
+726,Lawrence Group,Healthcare,51-200,89,Business,2023-01-26
+727,Edwards-Taylor,Healthcare,201-1000,154,Starter,2023-06-20
+728,"Miller, Tran and Greene",Retail,1-10,157,Business,2024-04-22
+729,Maxwell-Vaughn,Manufacturing,51-200,172,Starter,2025-01-07
+730,Harris-Lawson,Finance,11-50,189,Starter,2025-06-17
+731,"Myers, Lucas and Bowers",Finance,201-1000,48,Starter,2023-03-21
+732,Cruz-Allen,Manufacturing,201-1000,42,Business,2025-03-25
+733,"Jones, Oneal and Smith",Healthcare,1-10,151,Growth,2024-01-12
+734,Anderson-Valencia,Retail,11-50,9,Growth,2023-06-20
+735,Diaz-Vega,Education,51-200,112,Growth,2024-11-16
+736,Smith Inc,Technology,201-1000,181,Business,2023-08-24
+737,Lewis-Livingston,Education,201-1000,133,Growth,2023-11-13
+738,"Mitchell, Marquez and Wang",Education,1-10,185,Business,2025-01-02
+739,"Morales, Davidson and Medina",Finance,11-50,148,Growth,2023-08-03
+740,Miller-Miller,Finance,201-1000,139,Growth,2024-05-19
+741,Herrera Group,Retail,51-200,249,Growth,2024-08-08
+742,"Hines, Santos and Day",Healthcare,201-1000,238,Starter,2023-09-27
+743,"Kim, Ashley and Allen",Finance,51-200,144,Business,2025-04-08
+744,Middleton Inc,Education,51-200,161,Growth,2024-07-04
+745,"Lynch, Parker and Harmon",Manufacturing,11-50,250,Starter,2025-01-22
+746,Wilson Ltd,Finance,51-200,147,Business,2024-01-18
+747,"Smith, Crawford and Reed",Retail,11-50,246,Growth,2024-04-08
+748,"Green, Watson and Brady",Healthcare,51-200,185,Growth,2024-04-07
+749,"Tanner, Wise and Johnson",Education,201-1000,86,Enterprise,2023-11-18
+750,Warren-Baker,Retail,51-200,148,Growth,2025-01-15
+751,"Jones, Gibson and Ward",Education,51-200,36,Starter,2024-02-29
+752,"Jackson, Moore and Ayala",Retail,201-1000,234,Enterprise,2025-06-09
+753,"Sharp, Perez and Hicks",Technology,51-200,249,Growth,2024-09-04
+754,Sanchez Group,Healthcare,51-200,15,Starter,2023-08-16
+755,Mora-White,Technology,1-10,93,Starter,2024-03-22
+756,"Pratt, Klein and Rios",Finance,51-200,196,Business,2024-11-18
+757,Wright-Moon,Healthcare,11-50,56,Growth,2025-01-14
+758,Mckenzie-Duncan,Technology,51-200,243,Growth,2025-04-16
+759,"Nunez, Williams and Walker",Retail,51-200,40,Business,2025-05-23
+760,Finley Inc,Education,11-50,67,Business,2023-06-19
+761,Ayala-Collins,Technology,11-50,168,Starter,2023-03-20
+762,"Bryant, Wood and Carter",Healthcare,1-10,30,Starter,2023-12-28
+763,"Dean, Marshall and Vargas",Education,51-200,188,Starter,2024-10-04
+764,Oconnor PLC,Finance,1-10,179,Business,2025-01-03
+765,Smith Group,Technology,1-10,145,Starter,2023-08-02
+766,Weaver Ltd,Manufacturing,201-1000,172,Growth,2023-09-03
+767,Tapia Inc,Manufacturing,201-1000,171,Business,2025-01-08
+768,Sweeney-Acosta,Technology,51-200,87,Business,2023-11-06
+769,Moreno and Sons,Education,1-10,237,Starter,2024-03-19
+770,Woodward-Kaufman,Finance,11-50,141,Business,2023-05-19
+771,"Ramirez, Williams and Hall",Retail,11-50,111,Starter,2023-02-27
+772,Haynes-Watson,Manufacturing,1-10,219,Business,2023-10-01
+773,Carpenter PLC,Finance,201-1000,52,Starter,2024-09-08
+774,"Wilkins, Jones and Bradley",Education,1-10,7,Growth,2024-03-25
+775,"Brandt, Young and Green",Healthcare,1-10,242,Business,2024-04-08
+776,Haynes-Moss,Healthcare,51-200,121,Starter,2024-06-04
+777,Nelson-Jones,Finance,201-1000,232,Starter,2025-04-23
+778,Chan PLC,Technology,201-1000,74,Business,2023-07-28
+779,Garcia Group,Education,1-10,89,Business,2023-10-27
+780,Russell-Herrera,Finance,201-1000,170,Growth,2023-09-10
+781,Parker-Baker,Technology,11-50,8,Growth,2024-02-04
+782,Moore Ltd,Healthcare,51-200,150,Growth,2024-06-07
+783,"Terry, Williams and Huff",Healthcare,11-50,161,Starter,2023-10-28
+784,Davis and Sons,Healthcare,201-1000,136,Starter,2024-09-21
+785,Palmer-Byrd,Healthcare,1-10,107,Starter,2024-05-24
+786,Johnson Group,Education,11-50,40,Enterprise,2023-05-29
+787,"Adkins, Wright and Murray",Finance,51-200,244,Growth,2025-01-11
+788,Smith and Sons,Finance,1-10,71,Growth,2024-01-21
+789,Colon LLC,Manufacturing,11-50,119,Growth,2024-08-18
+790,"Pace, Miller and Willis",Technology,51-200,82,Enterprise,2024-02-19
+791,Osborn and Sons,Manufacturing,1-10,71,Starter,2025-06-23
+792,Lamb-Davis,Healthcare,11-50,20,Growth,2024-07-12
+793,Williams Group,Technology,201-1000,83,Growth,2023-07-03
+794,Glass Group,Manufacturing,201-1000,180,Growth,2023-09-06
+795,Crawford-Reyes,Education,51-200,181,Starter,2025-02-19
+796,Gomez and Sons,Healthcare,51-200,99,Business,2023-07-02
+797,Griffin-Hernandez,Retail,11-50,250,Enterprise,2023-12-10
+798,"Jensen, Holland and Porter",Retail,201-1000,44,Growth,2023-07-27
+799,Brown-Ramirez,Finance,51-200,111,Growth,2024-12-07
+800,Gonzalez-Wilkerson,Retail,201-1000,198,Enterprise,2025-05-03
+801,Mccoy PLC,Technology,11-50,200,Business,2025-04-15
+802,Casey-Howard,Retail,1-10,139,Starter,2024-01-20
+803,Cooper-Cunningham,Healthcare,51-200,24,Growth,2024-11-24
+804,Nelson-Johnson,Retail,1-10,20,Growth,2025-05-26
+805,Johnson LLC,Technology,11-50,151,Growth,2025-04-30
+806,Moreno-Wang,Finance,11-50,47,Business,2025-04-13
+807,Garcia Ltd,Finance,201-1000,34,Enterprise,2024-05-24
+808,Ferguson-Moody,Manufacturing,201-1000,28,Enterprise,2023-11-16
+809,Gallagher and Sons,Retail,201-1000,212,Growth,2025-03-03
+810,Kelly-Combs,Finance,201-1000,38,Starter,2023-03-28
+811,Young LLC,Manufacturing,201-1000,121,Enterprise,2025-03-08
+812,"Howard, Vargas and Warner",Healthcare,1-10,148,Business,2025-05-26
+813,"Elliott, Hart and Lopez",Education,51-200,190,Starter,2024-12-19
+814,"Parker, Henry and Davis",Finance,201-1000,70,Enterprise,2023-02-03
+815,"Robinson, Fox and Smith",Retail,11-50,153,Business,2023-01-05
+816,Drake LLC,Manufacturing,1-10,113,Growth,2023-04-24
+817,Sellers LLC,Technology,1-10,143,Growth,2024-06-19
+818,Hernandez Ltd,Finance,1-10,244,Growth,2023-04-04
+819,Mathis LLC,Technology,1-10,78,Starter,2025-01-03
+820,Bush-Bates,Retail,11-50,201,Starter,2024-09-27
+821,Rogers LLC,Finance,201-1000,100,Business,2023-07-30
+822,Oconnor Group,Manufacturing,201-1000,227,Starter,2024-08-17
+823,Banks-Thompson,Retail,201-1000,25,Starter,2024-08-09
+824,"Preston, Austin and Kelly",Manufacturing,11-50,172,Growth,2025-04-17
+825,"Olsen, Gray and Gross",Healthcare,1-10,50,Growth,2024-06-24
+826,Thompson Inc,Manufacturing,201-1000,140,Enterprise,2025-04-14
+827,"Myers, Gamble and Sanford",Technology,11-50,218,Starter,2023-07-17
+828,Guzman PLC,Finance,1-10,81,Starter,2023-01-06
+829,"Cunningham, Zuniga and Taylor",Manufacturing,201-1000,141,Business,2024-12-20
+830,Young LLC,Finance,11-50,68,Growth,2024-08-12
+831,"Mcclure, Davis and Fletcher",Manufacturing,51-200,44,Starter,2024-12-16
+832,"Tanner, Griffin and Baker",Finance,11-50,244,Growth,2024-03-04
+833,"Jones, Scott and Rodriguez",Technology,1-10,212,Starter,2023-06-25
+834,Cruz Ltd,Education,1-10,66,Starter,2024-10-13
+835,Wilkerson Group,Education,1-10,30,Growth,2023-11-17
+836,Payne-Garcia,Education,201-1000,158,Growth,2023-02-22
+837,"Curtis, Mcdaniel and Martin",Technology,11-50,194,Enterprise,2023-03-17
+838,Phillips LLC,Healthcare,201-1000,117,Growth,2023-03-10
+839,Jones and Sons,Education,11-50,198,Growth,2023-12-31
+840,Dennis PLC,Technology,11-50,133,Growth,2023-03-29
+841,Wheeler-Austin,Education,11-50,213,Starter,2024-03-25
+842,"Johnson, Dunlap and Martin",Education,51-200,152,Growth,2025-06-13
+843,Brown LLC,Finance,11-50,82,Starter,2024-05-13
+844,Ortiz PLC,Manufacturing,11-50,110,Enterprise,2023-08-11
+845,"Fernandez, Guerrero and Evans",Technology,51-200,20,Starter,2024-04-11
+846,Long PLC,Education,11-50,165,Growth,2025-05-14
+847,Brown Inc,Education,201-1000,17,Starter,2024-10-25
+848,Phillips Ltd,Manufacturing,201-1000,206,Enterprise,2024-06-19
+849,"Castillo, Davis and Clark",Manufacturing,51-200,183,Growth,2025-03-25
+850,Rowland-Wells,Technology,201-1000,43,Growth,2024-10-08
+851,Glover-Ruiz,Manufacturing,201-1000,52,Starter,2024-04-10
+852,Davis-Stephens,Finance,201-1000,66,Business,2025-04-15
+853,Mcclure-Wood,Education,51-200,224,Starter,2023-12-17
+854,Baker Group,Healthcare,201-1000,239,Business,2023-08-13
+855,Hood PLC,Technology,201-1000,111,Starter,2023-03-31
+856,Goodwin Ltd,Technology,11-50,104,Starter,2025-05-15
+857,Barnett PLC,Education,51-200,57,Starter,2024-01-13
+858,"Perez, Brown and Hughes",Retail,1-10,241,Growth,2024-05-28
+859,Sheppard-Mcdaniel,Education,51-200,28,Growth,2024-11-29
+860,"Keith, Alvarez and Miller",Manufacturing,11-50,18,Starter,2025-04-12
+861,Shaw PLC,Retail,201-1000,177,Business,2024-02-22
+862,"Mcgrath, Hernandez and Avery",Education,1-10,53,Growth,2023-03-03
+863,Rush and Sons,Finance,11-50,127,Growth,2025-05-18
+864,Martinez Group,Technology,51-200,82,Growth,2023-11-21
+865,"Graham, Osborn and Burton",Retail,11-50,244,Growth,2023-01-24
+866,Flores-Acosta,Technology,1-10,196,Growth,2023-10-23
+867,Hughes Group,Retail,11-50,183,Starter,2025-01-13
+868,Gates-Stone,Technology,201-1000,239,Starter,2023-11-14
+869,"Dean, Mills and Barnes",Education,51-200,203,Business,2024-01-07
+870,Hernandez PLC,Retail,201-1000,124,Enterprise,2024-03-15
+871,Buckley PLC,Technology,51-200,83,Growth,2025-04-08
+872,Dillon-Beard,Education,51-200,136,Starter,2024-02-11
+873,Reyes-Washington,Retail,201-1000,30,Growth,2025-02-11
+874,Johnson-Hill,Finance,51-200,239,Growth,2024-12-30
+875,"Franklin, Steele and Williams",Healthcare,51-200,85,Starter,2023-11-12
+876,"Young, Reese and Mccall",Healthcare,1-10,149,Starter,2024-10-05
+877,Morgan LLC,Healthcare,11-50,9,Business,2023-12-10
+878,Cameron-Garrison,Manufacturing,201-1000,80,Growth,2024-02-10
+879,Compton and Sons,Finance,11-50,89,Starter,2023-08-25
+880,Mccann-Ramos,Healthcare,201-1000,150,Starter,2023-12-24
+881,Daniel-Jacobs,Technology,201-1000,145,Starter,2024-01-17
+882,Alexander Group,Manufacturing,51-200,200,Growth,2024-06-08
+883,Malone-Camacho,Technology,201-1000,122,Starter,2025-01-29
+884,"Moody, Jones and Mckinney",Education,51-200,48,Starter,2023-09-19
+885,Deleon PLC,Retail,201-1000,52,Business,2023-08-06
+886,Thompson and Sons,Technology,1-10,139,Starter,2025-04-22
+887,Johnson Inc,Healthcare,1-10,246,Growth,2023-02-22
+888,"Gonzalez, Richardson and Marshall",Education,1-10,110,Starter,2023-03-17
+889,"Leblanc, Maldonado and Allen",Education,11-50,22,Starter,2023-08-02
+890,"Griffin, Horne and Wells",Retail,1-10,60,Starter,2023-08-23
+891,Cooper-Monroe,Healthcare,201-1000,100,Business,2025-02-24
+892,"Rivas, Davis and Johnson",Technology,201-1000,173,Business,2023-04-04
+893,Nash and Sons,Finance,1-10,6,Business,2025-01-27
+894,"Perez, Clark and Pearson",Retail,201-1000,8,Growth,2025-04-06
+895,Hancock Ltd,Technology,51-200,142,Growth,2023-01-26
+896,Buck-Holland,Retail,1-10,133,Starter,2024-03-21
+897,Walker PLC,Healthcare,11-50,32,Starter,2024-10-30
+898,"Rasmussen, Day and Coleman",Education,11-50,66,Business,2023-05-30
+899,Stevens-Robinson,Healthcare,51-200,213,Starter,2023-10-26
+900,"Meyer, Hanson and Silva",Technology,51-200,208,Starter,2024-07-04
+901,"Key, Levy and Franco",Retail,1-10,100,Starter,2024-09-08
+902,"Wheeler, Campbell and Cohen",Education,201-1000,149,Starter,2024-09-22
+903,Rogers LLC,Manufacturing,11-50,81,Starter,2024-01-13
+904,Hensley-Green,Manufacturing,1-10,28,Growth,2023-05-06
+905,"Evans, Hernandez and Cannon",Technology,201-1000,101,Growth,2024-09-21
+906,"Powell, Flores and Taylor",Technology,201-1000,19,Business,2025-05-08
+907,"Jimenez, Phillips and Meadows",Education,11-50,26,Business,2023-01-15
+908,Doyle-Aguilar,Retail,201-1000,170,Starter,2025-02-15
+909,Cooper Ltd,Finance,1-10,234,Starter,2024-05-29
+910,"Nichols, Glover and Knox",Manufacturing,1-10,63,Growth,2025-03-31
+911,Romero-Bruce,Manufacturing,201-1000,74,Growth,2023-11-25
+912,"White, Davis and Anderson",Healthcare,1-10,180,Starter,2023-03-14
+913,"Stokes, Hines and White",Manufacturing,1-10,50,Growth,2024-03-11
+914,Pena-Walker,Finance,1-10,58,Growth,2024-05-03
+915,"Savage, Fisher and Eaton",Healthcare,201-1000,242,Growth,2023-08-12
+916,Richards-Ford,Technology,51-200,46,Growth,2023-04-30
+917,Brown-Walters,Retail,11-50,150,Starter,2025-05-26
+918,"Jones, Preston and Mason",Manufacturing,51-200,103,Enterprise,2024-08-27
+919,Moreno-Gutierrez,Finance,1-10,133,Business,2023-08-06
+920,Gay LLC,Education,1-10,30,Starter,2024-06-21
+921,"Orozco, Hatfield and Thomas",Manufacturing,11-50,219,Business,2024-11-09
+922,Maxwell Group,Healthcare,51-200,159,Growth,2023-04-29
+923,"Hatfield, Edwards and Brown",Education,51-200,12,Business,2024-09-08
+924,Clark-Ayala,Retail,201-1000,130,Business,2024-02-29
+925,Burns Inc,Finance,51-200,146,Growth,2023-12-21
+926,"Hamilton, Jordan and Patterson",Education,201-1000,52,Starter,2024-08-06
+927,Smith-Ferguson,Manufacturing,201-1000,26,Starter,2025-06-29
+928,Dodson-Mcclain,Retail,11-50,187,Growth,2024-04-03
+929,Smith Inc,Manufacturing,1-10,73,Growth,2023-04-25
+930,"Wright, Steele and Cooper",Finance,201-1000,187,Starter,2023-08-28
+931,Reyes PLC,Healthcare,201-1000,86,Starter,2023-08-28
+932,Brown Inc,Healthcare,1-10,28,Business,2024-07-14
+933,Bryant-Meyer,Retail,51-200,118,Enterprise,2023-01-09
+934,Hamilton-Mcdaniel,Finance,51-200,31,Growth,2024-07-13
+935,Ferrell-Henry,Finance,1-10,52,Starter,2023-07-25
+936,Vaughan Group,Technology,201-1000,147,Starter,2024-10-31
+937,Walker and Sons,Finance,201-1000,31,Starter,2025-05-11
+938,"Johnson, Wagner and Martinez",Manufacturing,1-10,95,Enterprise,2023-02-10
+939,"Conner, Brooks and Bowman",Retail,1-10,157,Starter,2025-05-10
+940,"Williams, Vang and Stanley",Manufacturing,201-1000,8,Growth,2024-05-18
+941,Williams Inc,Education,201-1000,104,Starter,2024-03-29
+942,James-Kelley,Education,11-50,151,Growth,2023-05-12
+943,"Hernandez, Neal and Mccoy",Healthcare,11-50,180,Growth,2025-03-20
+944,Stanley-Bates,Healthcare,11-50,40,Business,2024-08-14
+945,"Obrien, Taylor and Rivas",Technology,51-200,73,Starter,2024-02-22
+946,"Higgins, Wilson and Wilson",Technology,11-50,21,Starter,2025-02-05
+947,Gonzalez-Gonzalez,Healthcare,201-1000,75,Starter,2023-09-17
+948,"Dudley, Howard and Ortiz",Finance,51-200,128,Enterprise,2024-10-16
+949,Kelley and Sons,Manufacturing,51-200,69,Business,2023-04-30
+950,Rivera-Smith,Manufacturing,201-1000,157,Growth,2024-01-19
+951,Meadows PLC,Manufacturing,201-1000,32,Growth,2023-10-31
+952,Hernandez-Davis,Retail,51-200,6,Growth,2023-07-30
+953,Cummings Inc,Healthcare,51-200,220,Starter,2024-09-06
+954,"Hall, Hinton and Phillips",Education,51-200,117,Enterprise,2024-08-13
+955,Garcia and Sons,Technology,201-1000,213,Growth,2024-06-03
+956,Ward-Rhodes,Education,51-200,87,Growth,2023-07-31
+957,"Wilson, York and Zamora",Technology,201-1000,85,Growth,2023-11-09
+958,Alvarado and Sons,Healthcare,201-1000,86,Starter,2023-10-03
+959,Kline-Friedman,Healthcare,201-1000,152,Starter,2024-03-28
+960,"Davis, Briggs and White",Education,51-200,101,Business,2024-01-12
+961,Rivers-Nelson,Education,201-1000,98,Starter,2024-03-11
+962,"Jefferson, Marsh and Banks",Finance,11-50,156,Growth,2023-06-26
+963,Anderson Ltd,Technology,11-50,179,Starter,2025-04-27
+964,Garcia PLC,Education,1-10,248,Growth,2025-05-04
+965,"Gregory, White and James",Healthcare,11-50,117,Starter,2024-12-18
+966,"Johnson, Cohen and Roberson",Finance,1-10,214,Growth,2024-03-28
+967,Knapp-Rodriguez,Education,201-1000,40,Business,2024-09-27
+968,Williams-Green,Healthcare,11-50,69,Starter,2024-04-15
+969,Bush Ltd,Retail,201-1000,207,Growth,2023-08-28
+970,"Ray, Cunningham and Levine",Manufacturing,1-10,119,Growth,2024-08-08
+971,Stone-Watts,Retail,201-1000,141,Growth,2025-01-14
+972,Reynolds Ltd,Finance,201-1000,144,Enterprise,2025-02-25
+973,Reed-Rhodes,Education,51-200,184,Business,2023-02-27
+974,Combs PLC,Retail,1-10,32,Starter,2025-04-14
+975,Smith and Sons,Retail,51-200,47,Starter,2024-01-21
+976,Christian-Booth,Technology,201-1000,197,Starter,2023-03-10
+977,Flores-Rivera,Healthcare,201-1000,32,Growth,2024-05-30
+978,Hunter PLC,Manufacturing,1-10,71,Starter,2023-01-17
+979,Powell-Young,Education,11-50,119,Growth,2023-12-11
+980,Solis-West,Education,201-1000,123,Growth,2024-08-04
+981,Stewart-Hooper,Manufacturing,11-50,93,Starter,2025-02-16
+982,"Smith, Powell and Johnson",Retail,201-1000,31,Business,2023-02-08
+983,Petersen PLC,Retail,201-1000,240,Starter,2024-04-03
+984,"Torres, Romero and Clark",Manufacturing,1-10,217,Starter,2023-05-14
+985,Clements-Cox,Technology,51-200,84,Business,2023-08-09
+986,Richard LLC,Retail,201-1000,205,Growth,2024-06-16
+987,"Greene, Moran and Cox",Education,201-1000,94,Growth,2023-11-18
+988,Davis Ltd,Finance,1-10,117,Growth,2025-01-09
+989,Peterson Ltd,Healthcare,51-200,22,Starter,2024-12-03
+990,"Boyd, Park and Williams",Finance,1-10,212,Business,2024-04-11
+991,Taylor-Love,Manufacturing,1-10,222,Business,2023-06-28
+992,Rodriguez-Carr,Finance,1-10,178,Growth,2024-06-16
+993,Conrad Group,Finance,11-50,137,Starter,2023-09-13
+994,Summers-Lee,Healthcare,11-50,89,Growth,2023-09-29
+995,Sherman Inc,Manufacturing,201-1000,250,Growth,2025-05-19
+996,"Chapman, Barton and Hayes",Manufacturing,11-50,209,Starter,2024-12-18
+997,"Blanchard, Taylor and Porter",Retail,11-50,52,Enterprise,2024-09-21
+998,"Williams, Mcconnell and Roberson",Education,201-1000,12,Starter,2024-11-02
+999,"Norman, Kent and Holt",Finance,201-1000,156,Enterprise,2023-11-03
+1000,"Ochoa, Garcia and Sandoval",Retail,201-1000,6,Growth,2024-10-29
