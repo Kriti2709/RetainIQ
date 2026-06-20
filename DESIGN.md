@@ -34,3 +34,14 @@ Customers using more features are typically stickier.
 
 Workspace Age
 Older accounts generally churn less frequently.
+
+## Architecture Decisions
+
+### Why XGBoost?
+
+Chosen over Random Forest because:
+
+- Strong performance on tabular data
+- Handles non-linear churn patterns
+- Built-in feature importance
+- Industry standard for churn prediction

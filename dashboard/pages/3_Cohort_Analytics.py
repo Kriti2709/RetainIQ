@@ -1,0 +1,44 @@
+from pathlib import Path
+
+import pandas as pd
+import plotly.express as px
+import streamlit as st
+
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
+
+df = pd.read_csv(
+    BASE_DIR /
+    "data" /
+    "processed" /
+    "training_dataset.csv"
+)
+
+st.title("📊 Cohort Analytics")
+
+cohort = (
+    df.groupby("plan_tier")
+    ["churned"]
+    .mean()
+    .reset_index()
+)
+
+cohort["churn_rate"] = (
+    cohort["churned"] * 100
+)
+
+fig = px.bar(
+    cohort,
+    x="plan_tier",
+    y="churn_rate",
+    title="Churn Rate by Plan Tier"
+)
+
+st.plotly_chart(
+    fig,
+    use_container_width=True
+)
+
+st.dataframe(
+    cohort,
+    use_container_width=True
+)
