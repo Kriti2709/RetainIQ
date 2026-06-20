@@ -1,0 +1,7 @@
+feature,baseline_mean,current_mean,drift_percent
+dau_wau_ratio,0.18,0.18,0.0
+seat_utilization,4.52,4.52,0.0
+ticket_velocity,6.97,10.45,50.0
+avg_resolution_days,6.96,6.96,0.0
+total_events,432.56,432.56,0.0
+workspace_age_days,438.93,438.93,0.0

@@ -45,3 +45,15 @@ Chosen over Random Forest because:
 - Handles non-linear churn patterns
 - Built-in feature importance
 - Industry standard for churn prediction
+
+## MLOps Choices
+
+Data Drift Monitoring
+
+RetainIQ compares incoming feature distributions
+against the training baseline.
+
+Automatic Retraining
+
+If drift exceeds a configurable threshold,
+the platform triggers model retraining.
