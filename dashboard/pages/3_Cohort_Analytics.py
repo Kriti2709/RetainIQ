@@ -15,6 +15,26 @@ df = pd.read_csv(
 
 st.title("📊 Cohort Analytics")
 
+col1, col2, col3 = st.columns(3)
+
+with col1:
+    st.metric(
+        "Total Accounts",
+        len(df)
+    )
+
+with col2:
+    st.metric(
+        "Churn Rate",
+        f"{df['churned'].mean()*100:.2f}%"
+    )
+
+with col3:
+    st.metric(
+        "Active Accounts",
+        len(df[df["churned"] == 0])
+    )
+
 cohort = (
     df.groupby("plan_tier")
     ["churned"]
