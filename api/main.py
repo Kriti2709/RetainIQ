@@ -8,6 +8,7 @@ from api.schemas import (
     ChurnPredictionRequest,
     ChurnPredictionResponse,
 )
+from models.intervention_engine import get_intervention
 
 # =====================================================
 # App
@@ -58,6 +59,10 @@ def health():
     "/predict",
     response_model=ChurnPredictionResponse
 )
+@app.post(
+    "/predict",
+    response_model=ChurnPredictionResponse
+)
 def predict(
     request: ChurnPredictionRequest
 ):
@@ -81,14 +86,28 @@ def predict(
         model.predict_proba(data)[0][1]
     )
 
-    if probability >= 0.75:
-        risk = "HIGH"
-    elif probability >= 0.40:
-        risk = "MEDIUM"
-    else:
-        risk = "LOW"
+    # Convert numeric plan tier back to name
+    plan_mapping = {
+        0: "Business",
+        1: "Enterprise",
+        2: "Growth",
+        3: "Starter"
+    }
+
+    plan_name = plan_mapping.get(
+        request.plan_tier,
+        "Starter"
+    )
+
+    intervention = get_intervention(
+        churn_probability=probability,
+        plan_tier=plan_name,
+        ticket_velocity=request.ticket_velocity
+    )
 
     return ChurnPredictionResponse(
         churn_probability=round(probability, 4),
-        risk_level=risk,
+        risk_level=intervention["risk_level"],
+        recommended_action=intervention["recommended_action"],
+        reason=intervention["reason"]
     )
